@@ -3,7 +3,7 @@
 My name is Quang, I am from Ho Chi Minh City, Vietnam.
 
 - 🌱 I’m currently learning and working as a Frontend Developer.
-- 🔭 I’m currently working for Journey Horizon: journeyh.io
+- 🔭 I’m currently working for:
 - 📫 How to reach me: quangkhuat1995@gmail.com
 - ⚡ Fun fact: My background is not software related. In fact, I used to be a soldier.
 
