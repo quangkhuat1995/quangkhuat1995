@@ -5,7 +5,7 @@ My name is Quang, I am from Ho Chi Minh City, Vietnam.
 - 🌱 I’m currently learning and working as a Frontend Developer.
 - 🔭 I’m currently working for:
 - 📫 How to reach me: quangkhuat1995@gmail.com
-- ⚡ Fun fact: My background is not software related. In fact, I used to be a soldier.
+- ⚡ Fun fact: 
 
 <!--
 **quangkhuat1995/quangkhuat1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: quangkhuat1995@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My background is not software related. In fact, I used to be a soldier.
+- ⚡ Fun fact:
 -->
